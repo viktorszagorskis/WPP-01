@@ -5,3 +5,4 @@
 
 Uzdevums
 * Mans MInd Map par WEB Programm'e'sanu
+* un šīsdienas faili (HTML, CSS, JavaSCript)

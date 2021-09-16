@@ -9,3 +9,5 @@ Uzdevums (TODO)
 * Index failā:
 * Pamainiit elementa (p) background platumu. (lietojot DIV elementu)
 * Iedarbināt pulksteni (ar JavaScript)
+
+https://www.screencast.com/t/FE7g671L
